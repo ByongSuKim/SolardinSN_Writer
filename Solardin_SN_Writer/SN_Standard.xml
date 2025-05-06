@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SNStandard Version="1.1">
+
+  <Model>
+    <Item Code="601" Value="0" />
+    <Item Code="604" Value="1" />
+    <Item Code="610" Value="2" />
+    <Item Code="000" Value="3" Reserved="true" />
+    <Item Code="000" Value="4" Reserved="true" />
+    <Item Code="000" Value="5" Reserved="true" />
+    <Item Code="000" Value="6" Reserved="true" />
+    <Item Code="000" Value="7" Reserved="true" />
+    <Item Code="000" Value="8" Reserved="true" />
+    <Item Code="000" Value="9" Reserved="true" />
+    <Item Code="000" Value="10" Reserved="true" />
+    <Item Code="000" Value="11" Reserved="true" />
+    <Item Code="000" Value="12" Reserved="true" />
+    <Item Code="000" Value="13" Reserved="true" />
+    <Item Code="000" Value="14" Reserved="true" />
+    <Item Code="000" Value="15" Reserved="true" />
+  </Model>
+
+  <Channel>
+    <Item Code="01" Value="0" />
+    <Item Code="00" Value="1" Reserved="true" />
+    <Item Code="00" Value="2" Reserved="true" />
+    <Item Code="00" Value="3" Reserved="true" />
+    <Item Code="00" Value="4" Reserved="true" />
+    <Item Code="00" Value="5" Reserved="true" />
+    <Item Code="00" Value="6" Reserved="true" />
+    <Item Code="00" Value="7" Reserved="true" />
+    <Item Code="00" Value="8" Reserved="true" />
+    <Item Code="00" Value="9" Reserved="true" />
+    <Item Code="00" Value="10" Reserved="true" />
+    <Item Code="00" Value="11" Reserved="true" />
+    <Item Code="00" Value="12" Reserved="true" />
+    <Item Code="00" Value="13" Reserved="true" />
+    <Item Code="00" Value="14" Reserved="true" />
+    <Item Code="00" Value="15" Reserved="true" />    
+  </Channel>
+
+  <Capa>
+    <Item Code="01" Value="0" />
+    <Item Code="04" Value="1" />
+    <Item Code="10" Value="2" />
+    <Item Code="16" Value="3" />
+    <Item Code="00" Value="4" Reserved="true" />
+    <Item Code="00" Value="5" Reserved="true" />
+    <Item Code="00" Value="6" Reserved="true" />
+    <Item Code="00" Value="7" Reserved="true" />
+    <Item Code="00" Value="8" Reserved="true" />
+    <Item Code="00" Value="9" Reserved="true" />
+    <Item Code="00" Value="10" Reserved="true" />
+    <Item Code="00" Value="11" Reserved="true" />
+    <Item Code="00" Value="12" Reserved="true" />
+    <Item Code="00" Value="13" Reserved="true" />
+    <Item Code="00" Value="14" Reserved="true" />
+    <Item Code="00" Value="15" Reserved="true" />
+  </Capa>
+
+  <Type>
+    <Item Code="AS" Value="0" />
+    <Item Code="AP" Value="1" />
+    <Item Code="WS" Value="2" />
+    <Item Code="WP" Value="3" />
+    <Item Code="00" Value="4" Reserved="true" />
+    <Item Code="00" Value="5" Reserved="true" />
+    <Item Code="00" Value="6" Reserved="true" />
+    <Item Code="00" Value="7" Reserved="true" />
+    <Item Code="00" Value="8" Reserved="true" />
+    <Item Code="00" Value="9" Reserved="true" />
+    <Item Code="00" Value="10" Reserved="true" />
+    <Item Code="00" Value="11" Reserved="true" />
+    <Item Code="00" Value="12" Reserved="true" />
+    <Item Code="00" Value="13" Reserved="true" />
+    <Item Code="00" Value="14" Reserved="true" />
+    <Item Code="00" Value="15" Reserved="true" />
+  </Type>
+
+  <ShippingYear>
+    <Item Code="24" Value="0" />
+    <Item Code="25" Value="1" />
+    <Item Code="26" Value="2" />
+    <Item Code="27" Value="3" />
+    <Item Code="28" Value="4" />
+    <Item Code="29" Value="5" />
+    <Item Code="31" Value="6" />
+    <Item Code="32" Value="7" />
+    <Item Code="33" Value="8" />
+    <Item Code="34" Value="9" />
+    <Item Code="35" Value="10" />
+    <Item Code="36" Value="11" />
+    <Item Code="37" Value="12" />
+    <Item Code="38" Value="13" />
+    <Item Code="39" Value="14" />
+    <Item Code="40" Value="15" />
+  </ShippingYear>          
+                           
+  <ShippingMonth>
+    <Item Code="ZA" Value="0" />
+    <Item Code="ZB" Value="1" />
+    <Item Code="ZC" Value="2" />
+    <Item Code="ZD" Value="3" />
+    <Item Code="ZE" Value="4" />
+    <Item Code="ZF" Value="5" />
+    <Item Code="ZG" Value="6" />
+    <Item Code="ZH" Value="7" />
+    <Item Code="ZI" Value="8" />
+    <Item Code="AZ" Value="9" />
+    <Item Code="AA" Value="10" />
+    <Item Code="AB" Value="11" />
+  </ShippingMonth>
+
+  <ProductionNumber UseRawValue="true" />
+
+</SNStandard>
